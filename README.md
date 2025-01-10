@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CodeJ3
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning C and Java 
-- 💞️ I’m looking to collaborate mostly on Java 
-- 📫 How to reach me through skjoyshalom@gmail.com
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS and JS
+- 📫 How to reach me through codejsj3@gmail.com
 
 <!---
 CodeJ3/CodeJ3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
