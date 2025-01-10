@@ -1,0 +1,58 @@
+*{
+    background: #efcead;
+}
+
+.image{
+    text-align: center;
+    height: 20%;
+}
+
+img{
+    float: left;
+    padding-right: 190px;
+    margin-top: 1.7%;
+    margin-left: 15%;
+    border-radius: 50%;
+}
+
+h1{
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-right: 15%;
+    padding-top: 20%;
+    padding-bottom: 14%;
+    color: #8e5431;
+    text-decoration: underline;
+}
+
+.early_life{
+    float: left;
+    width: 45%;
+    margin-left: 3%;
+    height: 290px;
+    margin-right: 2%;
+}
+
+.early_life h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: #00000066;
+}
+
+.early_life p{
+    text-align: justify;
+    padding-right: 7%;
+    font-size: 90%;
+}
+
+.career h2{
+    margin-top: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    color: #00000066;
+}
+
+.career p{
+    text-align: justify;
+    font-size: 90%;
+    margin-right: 3%;
+}
