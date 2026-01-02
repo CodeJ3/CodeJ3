@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @CodeJ3
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and JS
-- 📫 How to reach me through codejsj3@gmail.com
+Hi I'm Sibafeu Joy a computer student at the university of Yaounde 1. I have being afraid of all the sovial media and plateform for years now and today I want to get out of my comfort zone and show the world what I have to offer. I'm open for projects and job opportunities, I'm glad to meet you.  
 
 <!---
 CodeJ3/CodeJ3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
